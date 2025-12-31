@@ -1,4 +1,6 @@
 import streamlit as st
 
-st.title("سایت من")
-st.write("این اولین سایت منه")
+st.set_page_config(page_title="سایت من")
+
+st.title("سلام 👋")
+st.write("سایت من با موفقیت بالا اومد")
